@@ -1,0 +1,8 @@
+D:\Desktop\OOP_Assessment1_2022\Task1\bin\Debug\Task1.exe.config
+D:\Desktop\OOP_Assessment1_2022\Task1\bin\Debug\Task1.exe
+D:\Desktop\OOP_Assessment1_2022\Task1\bin\Debug\Task1.pdb
+D:\Desktop\OOP_Assessment1_2022\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+D:\Desktop\OOP_Assessment1_2022\Task1\obj\Debug\Task1.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\OOP_Assessment1_2022\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\Desktop\OOP_Assessment1_2022\Task1\obj\Debug\Task1.exe
+D:\Desktop\OOP_Assessment1_2022\Task1\obj\Debug\Task1.pdb

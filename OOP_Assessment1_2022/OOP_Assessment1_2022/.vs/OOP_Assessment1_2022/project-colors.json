@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0e268f80-150f-4805-8422-ec2ba532a336": {
+      "ProjectGuid": "0e268f80-150f-4805-8422-ec2ba532a336",
+      "DisplayName": "Task1",
+      "ColorIndex": 0
+    },
+    "322b956c-1328-43c4-a5f5-68f09f1feafe": {
+      "ProjectGuid": "322b956c-1328-43c4-a5f5-68f09f1feafe",
+      "DisplayName": "Task2",
+      "ColorIndex": 1
+    },
+    "a5026f47-bcc3-4e48-b7c9-8ea5a441ae49": {
+      "ProjectGuid": "a5026f47-bcc3-4e48-b7c9-8ea5a441ae49",
+      "DisplayName": "Task3",
+      "ColorIndex": 2
+    },
+    "c56e1f49-70f7-4d79-ad0e-2fb0ec352e77": {
+      "ProjectGuid": "c56e1f49-70f7-4d79-ad0e-2fb0ec352e77",
+      "DisplayName": "Task4",
+      "ColorIndex": 3
+    },
+    "5a15e2d6-a81a-4890-9d8f-a94ad36c0e51": {
+      "ProjectGuid": "5a15e2d6-a81a-4890-9d8f-a94ad36c0e51",
+      "DisplayName": "Task5",
+      "ColorIndex": 4
+    },
+    "42bda01e-b0b4-4f28-93ec-3a7afbcb0028": {
+      "ProjectGuid": "42bda01e-b0b4-4f28-93ec-3a7afbcb0028",
+      "DisplayName": "UnableToUnderStandMissedClasses",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
